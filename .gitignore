@@ -1,0 +1,21 @@
+# Build output
+javidx9_afk
+run_tests
+*.o
+*.out
+
+# Save files and auto-saves
+*.json
+save.json
+autosave.json
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
